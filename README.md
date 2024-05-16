@@ -1,4 +1,4 @@
-# Máquina de Ritmos con Salida de Audio USB
+# OR-1: OPEN SOURCE EDUCATIONAL KIT 2024
 
 Este proyecto es una máquina de ritmos construida utilizando un microcontrolador Teensy 4.1 y el Audio Shield Rev D. Reproduce muestras de audio desde una tarjeta SD y envía el audio a través de USB y un DAC analógico. El Teensy está configurado para actuar como un dispositivo de audio USB, permitiendo una salida de audio de alta calidad, adecuada para grabación, transmisión en vivo o procesamiento con software de audio digital.
 
