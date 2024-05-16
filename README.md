@@ -14,11 +14,12 @@ Este proyecto es una máquina de ritmos construida utilizando un microcontrolado
 
 ## Requisitos de Hardware
 
-- Teensy 4.x (o compatible)
-- Audio Shield (opcional para salida analógica)
-- Tarjeta MicroSD y lector de tarjetas
-- Botones pulsadores y encoders
-- Adafruit NeoTrellis
+- Teensy 4.1 (o compatible)
+- Audio Shield REV D (opcional para salida analógica)
+- Tarjeta MicroSD 
+- 3 Botones pulsadores
+- 2 Encoders KY-040
+- Adafruit NeoTrellis 4x4
 - Pantalla OLED Adafruit SSD1306
 
 ## Configuración de Pines
