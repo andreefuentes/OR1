@@ -89,6 +89,7 @@ Este proyecto es una máquina de ritmos construida utilizando un microcontrolado
 
 - **Modelo 3D**: Archivos STL para imprimir la carcasa y los accesorios para los botones pulsadores.
 - **Diseño de PCB**: Esquemático y archivos Gerber para la fabricación del PCB.
+- **Guia de construcción**: Guia de ensamblaje para la replicación de la máquina. 
 
 ## Resolución de Problemas
 
