@@ -56,6 +56,7 @@ Este proyecto es una máquina de ritmos construida utilizando un microcontrolado
    - Abre el Arduino IDE.
    - Ve a **Sketch > Include Library > Manage Libraries**.
    - Instala las bibliotecas Adafruit GFX y Adafruit SSD1306.
+   - Instala la biblioteca Encoder, Adafruit_Neotrellis
    - Asegúrate de que las bibliotecas Audio, Wire, SPI, SD y SerialFlash estén instaladas.
 
 3. **Configurar el Teensy**:
@@ -67,13 +68,13 @@ Este proyecto es una máquina de ritmos construida utilizando un microcontrolado
    - Inserta la tarjeta SD con tus archivos WAV.
 
 5. **Subir el Código**:
-   - Abre el archivo `rhythm_machine.ino` en el Arduino IDE.
+   - Abre el archivo `Or-1.ino` en el Arduino IDE.
    - Haz clic en **Upload** para programar el Teensy.
 
 ## Uso
 
 - **Reproducción de Audio**:
-  - La máquina de ritmos reproducirá automáticamente los archivos de audio listados en el código (`SD.WAV`, `BD.WAV`, `CY.WAV`, etc.).
+  - La máquina de ritmos reproducirá automáticamente los archivos de audio listados en el código (`SD.WAV`, `BD.WAV`, `CY.WAV`, etc.). Puedes subir nuevos samples y cambiar los nombres en el código fuente para reproducir tus samples. 
   - Usa los botones pulsadores para controlar la reproducción y cambiar modos.
   - Los encoders te permiten ajustar el BPM y los parámetros de los efectos.
 
